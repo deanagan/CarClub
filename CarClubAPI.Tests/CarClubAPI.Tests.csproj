@@ -13,4 +13,8 @@
     <PackageReference Include="coverlet.collector" Version="1.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CarClubAPI\CarClubAPI.csproj" />
+  </ItemGroup>
+
 </Project>
